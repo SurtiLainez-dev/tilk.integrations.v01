@@ -1,8 +1,8 @@
 
-# Consideraciones técnicas para conertar TILK(programa de Surtidora Lainez) con Banco Atlantida
+# Consideraciones técnicas para conectar TILK(programa de Surtidora Lainez) con Banco Atlantida
 
-Programa que usa Surtidora Lainez para su infraestructura de negocio completa se llama TILK. Este programa fue desarrollado por Surtidor Lainez, el cual mantiene todo su back-end ejecutandose como una API en servidores dedicados. 
-Actualmente esta es nuestra primera vez que dariamos acceso a otra entidad  a nuestra API y aun estamos desarrollando nuestros metodos de seguridad para lograr que la conexion a nuestra API se la correcta y la mas segurar posibles
+Programa que usa Surtidora Lainez para su infraestructura de negocio completa se llama TILK. Este programa fue desarrollado por Surtidora Lainez, el cual mantiene todo su back-end ejecutandose como una API en servidores dedicados. 
+Actualmente esta es nuestra primera vez que dariamos acceso a otra entidad  a nuestra API y aun estamos desarrollando nuestros metodos de seguridad para lograr que la conexion a nuestra API se la correcta y la mas seguras posible
 
 
 
@@ -11,7 +11,7 @@ Actualmente esta es nuestra primera vez que dariamos acceso a otra entidad  a nu
 Actualmente estamos en desarrollo para aún para que un tercero tenga acceso a nuestra API, pero contamos con esta especificaciones y requerimientos necesarios(los cuales pueden ir cambiando con el desarrollo).
 
 1. Para la conexión a la API de Tilk Surtidora Lainez les brindará un token
-2. Proporcianamos rutas de nuestra API(Actualmente aun estan en desarollo para un test tienen que solicitarlo 10 días antes para programar)
+2. Proporcianaremos rutas de nuestra API(Actualmente aun estan en desarollo para un test tienen que solicitarlo 10 días antes para programar)
 #### Obtener token de nueva consulta
 
 ```http
